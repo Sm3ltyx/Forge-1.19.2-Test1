@@ -1,0 +1,8 @@
+{
+  "item.testmod.stone_gem": "Stone Gem",
+
+  "block.testmod.stone_gem_ore": "Stone Gem Ore",
+  "block.testmod.deepslate_stone_gem_ore": "Deepslate Stone Gem Ore",
+
+  "itemGroup.testtab": "Mod Materials"
+}
